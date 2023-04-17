@@ -83,8 +83,8 @@ main {
 }
 main h1 {
 	font-size: 150%;
-	padding-top: .3em 0;
-	padding-bottom: .3em 0;
+	padding-top: .6em 0;
+	padding-bottom: .6em 0;
 }
 main h2 {
 	color: var(--global-color-1);
@@ -125,6 +125,10 @@ footer p {
 * {
 	margin: 0;
 	padding: 0;
+}
+
+ul{
+	padding-top: .6em, 0;
 }
 
 /* Other, Link-based styles */
