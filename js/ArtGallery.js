@@ -6,13 +6,13 @@ const overlay = document.querySelector('.overlay');
 
 /* Declaring the array of image filenames */
 
-const images = ['pic1.jpg', `pic2.jpg`, `pic3.jpg`, `pic4.jpg`, `pic5.jpg`];
+const images = ['Summer Days, Drifting Away.png', `NadyeRaffleNoTwitHandle.png`, `GET_A_MEDIC.png`, `BirdLass.png`, `RenderVroid.png`];
 const alts = {
-  'pic1.jpg' : 'Overview/Render of a model I created',
-  'pic2.jpg' : 'Front view of a model I created',
-  'pic3.jpg' : 'Side view of a model I created',
-  'pic4.jpg' : 'Back view of a model I created',
-  'pic5.jpg' : 'Another render of a model I created'
+  'Summer Days, Drifting Away.png' : "An art piece I made for the Autism Society of Inland Empire's 2023 calendar",
+  'NadyeRaffleNoTwitHandle.png' : 'A character artwork I made for someone in 2022',
+  'GET_A_MEDIC.png' : "A sketch from early April 2023 of a friend's cartoony character",
+  'BirdLass.png' : 'A concept art of a medieval fantasy character I made in 2022',
+  'RenderVroid.png' : 'A render of a model I created'
 }
 
 /* Looping through images */
